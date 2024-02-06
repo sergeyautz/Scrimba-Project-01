@@ -18,3 +18,4 @@ function clearMe() {
     document.getElementById("saved-el").textContent = ' '
 }
 
+alert('Welcome!')
