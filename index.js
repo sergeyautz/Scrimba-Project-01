@@ -38,6 +38,7 @@ function moveLeft() {
     document.getElementById('box-el').style.marginLeft = margin + 'px'
 }
 
+// Random Color
 
 function generateRandomColor() {
     let randomNumber1 = Math.floor(Math.random()*5) 
